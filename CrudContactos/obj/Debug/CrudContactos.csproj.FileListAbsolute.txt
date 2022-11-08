@@ -1,0 +1,11 @@
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.csproj.AssemblyReference.cache
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.Form1.resources
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.Properties.Resources.resources
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.csproj.GenerateResource.cache
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\bin\Debug\CrudContactos.exe.config
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\bin\Debug\CrudContactos.exe
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\bin\Debug\CrudContactos.pdb
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.exe
+C:\Users\Casa\Documents\CrudContactos\CrudContactos\CrudContactos\obj\Debug\CrudContactos.pdb
